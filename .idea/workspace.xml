@@ -89,7 +89,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3065000" />
+    <option name="totallyTimeSpent" value="3336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="2048" height="1152" extended-state="0" />
@@ -97,11 +97,11 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962999" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50024664" side_tool="true" weight="0.32922202" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.50074" side_tool="true" visible="true" weight="0.32922202" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32922202" />
+      <window_info anchor="bottom" id="Version Control" sideWeight="0.49925998" weight="0.32922202" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49975333" visible="true" weight="0.32922202" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49925998" visible="true" weight="0.32922202" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
